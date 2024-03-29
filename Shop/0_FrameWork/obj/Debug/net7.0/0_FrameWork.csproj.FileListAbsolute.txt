@@ -1,0 +1,12 @@
+F:\MyProgram\VS\DotNetCore\Shop_Project\Code\Shop\0_FrameWork\bin\Debug\net7.0\0_FrameWork.deps.json
+F:\MyProgram\VS\DotNetCore\Shop_Project\Code\Shop\0_FrameWork\bin\Debug\net7.0\0_FrameWork.dll
+F:\MyProgram\VS\DotNetCore\Shop_Project\Code\Shop\0_FrameWork\bin\Debug\net7.0\0_FrameWork.pdb
+F:\MyProgram\VS\DotNetCore\Shop_Project\Code\Shop\0_FrameWork\obj\Debug\net7.0\0_FrameWork.csproj.AssemblyReference.cache
+F:\MyProgram\VS\DotNetCore\Shop_Project\Code\Shop\0_FrameWork\obj\Debug\net7.0\0_FrameWork.GeneratedMSBuildEditorConfig.editorconfig
+F:\MyProgram\VS\DotNetCore\Shop_Project\Code\Shop\0_FrameWork\obj\Debug\net7.0\0_FrameWork.AssemblyInfoInputs.cache
+F:\MyProgram\VS\DotNetCore\Shop_Project\Code\Shop\0_FrameWork\obj\Debug\net7.0\0_FrameWork.AssemblyInfo.cs
+F:\MyProgram\VS\DotNetCore\Shop_Project\Code\Shop\0_FrameWork\obj\Debug\net7.0\0_FrameWork.csproj.CoreCompileInputs.cache
+F:\MyProgram\VS\DotNetCore\Shop_Project\Code\Shop\0_FrameWork\obj\Debug\net7.0\0_FrameWork.dll
+F:\MyProgram\VS\DotNetCore\Shop_Project\Code\Shop\0_FrameWork\obj\Debug\net7.0\refint\0_FrameWork.dll
+F:\MyProgram\VS\DotNetCore\Shop_Project\Code\Shop\0_FrameWork\obj\Debug\net7.0\0_FrameWork.pdb
+F:\MyProgram\VS\DotNetCore\Shop_Project\Code\Shop\0_FrameWork\obj\Debug\net7.0\ref\0_FrameWork.dll
