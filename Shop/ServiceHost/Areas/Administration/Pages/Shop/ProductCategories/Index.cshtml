@@ -5,7 +5,7 @@
 }
 <!-- Content -->
 <!--Search-->
-<div class="container-xxl flex-grow-1  cls-sj-saf---content-search-box">
+<div class="container-xxl  cls-sj-saf---content-search-box">
     <div class="card mb-2">
         <div class="card-header d-flex align-items-center justify-content-between">
             <h5 class="mb-0">جستجو در گروه محصولات</h5>
@@ -13,10 +13,12 @@
         </div>
         <div class="card-body">
             <form method="get">
-                <div class="row mb-3">
-                    <label class="col-sm-1 col-form-label" asp-for="SearchModel.Name">نام گروه محصولی</label>
-                    <div class="col-sm-11">
-                        <input type="text" class="form-control" id="basic-default-name" placeholder="نام گروه محصولی" asp-for="SearchModel.Name" />
+                <div class="row mb-3" >
+                    <div class="col-md-4">
+                        <div class="form-group">
+                            <label asp-for="SearchModel.Name" class="control-label">نام گروه محصول</label>
+                            <input type="text" class="form-control" asp-for="SearchModel.Name" placeholder="نام گروه محصول">
+                        </div>
                     </div>
                 </div>
                 <div class="row justify-content-end">
@@ -25,6 +27,7 @@
                         <a class="btn btn-primary" asp-page="./Index">مشاهده همه</a>
                     </div>
                 </div>
+
             </form>
         </div>
     </div>
@@ -33,14 +36,15 @@
 <div class="container-xxl flex-grow-1  cls-sj-saf---content-Table-box">
     <!-- Bootstrap Table with Header - Dark -->
     <div class="card">
-        <div id="card-bar">
-            <div id="card-bar-right">
-                <h5 class="card-header">لیست گروه محصولات</h5>
+        <div id="card-bar" class="row">
+            <div id="card-bar-right" class="col-sm-6">
+                <h5 class="card-header">لیست گروه محصول</h5>
             </div>
-            <div id="card-bar-left">
-                <a class ="btn btn-success" href="#showmodal=@Url.Page("./Index", "Create")">اضافه کردن +</a>
+            <div id="card-bar-left"  class="col-sm-6">
+                <a class="btn btn-success" href="#showmodal=@Url.Page("./Index", "Create")">اضافه کردن +</a>
             </div>
         </div>
+    </div>
 
 
         <div class="table-responsive text-nowrap">
@@ -76,5 +80,5 @@
         </div>
     </div>
     <!--/ Bootstrap Table with Header Dark -->
-</div>
+
 <!-- / Content -->

@@ -137,8 +137,16 @@
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\img\\avatars\\7.png"
     },
     {
+      "Id": "F:\\MyProgram\\VS\\DotNetCore\\Shop_Project\\Code\\Shop\\ServiceHost\\wwwroot\\AdminTheme\\assets\\img\\backgrounds\\12.jpg",
+      "PackagePath": "staticwebassets\\AdminTheme\\assets\\img\\backgrounds\\12.jpg"
+    },
+    {
       "Id": "F:\\MyProgram\\VS\\DotNetCore\\Shop_Project\\Code\\Shop\\ServiceHost\\wwwroot\\AdminTheme\\assets\\img\\backgrounds\\18.jpg",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\img\\backgrounds\\18.jpg"
+    },
+    {
+      "Id": "F:\\MyProgram\\VS\\DotNetCore\\Shop_Project\\Code\\Shop\\ServiceHost\\wwwroot\\AdminTheme\\assets\\img\\backgrounds\\19.jpg",
+      "PackagePath": "staticwebassets\\AdminTheme\\assets\\img\\backgrounds\\19.jpg"
     },
     {
       "Id": "F:\\MyProgram\\VS\\DotNetCore\\Shop_Project\\Code\\Shop\\ServiceHost\\wwwroot\\AdminTheme\\assets\\img\\elements\\1.jpg",
@@ -235,6 +243,10 @@
     {
       "Id": "F:\\MyProgram\\VS\\DotNetCore\\Shop_Project\\Code\\Shop\\ServiceHost\\wwwroot\\AdminTheme\\assets\\img\\icons\\brands\\twitter.png",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\img\\icons\\brands\\twitter.png"
+    },
+    {
+      "Id": "F:\\MyProgram\\VS\\DotNetCore\\Shop_Project\\Code\\Shop\\ServiceHost\\wwwroot\\AdminTheme\\assets\\img\\icons\\icon\\bxs-message-square-check.png",
+      "PackagePath": "staticwebassets\\AdminTheme\\assets\\img\\icons\\icon\\bxs-message-square-check.png"
     },
     {
       "Id": "F:\\MyProgram\\VS\\DotNetCore\\Shop_Project\\Code\\Shop\\ServiceHost\\wwwroot\\AdminTheme\\assets\\img\\icons\\unicons\\cc-primary.png",
